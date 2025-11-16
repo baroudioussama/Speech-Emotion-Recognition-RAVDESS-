@@ -28,10 +28,3 @@
 
 ---
 
-## 🚀 Quick Start
-
-### 1. Clone & Install
-```bash
-git clone https://github.com/yourname/speech-emotion-ravdess.git
-cd speech-emotion-ravdess
-pip install -r requirements.txt
