@@ -16,7 +16,7 @@
 
 > **Beats typical MLP baselines (60–70%)** — **no CNN, no pre-trained models!**
 
-![Training Curves](results/training_curves.png)
+![Training Curves](results.png)
 
 ---
 
